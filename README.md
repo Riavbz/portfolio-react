@@ -27,10 +27,13 @@ A modern, responsive personal portfolio built from the ground up using **React**
    git clone https://github.com
    
 2. Navigate to the project folder:
+   ```bash
     cd react-portfolio
     
 3. Install dependencies:
+   ```bash
     npm install
     
 4. Start the development server:
+   ```bash
     npm run dev
